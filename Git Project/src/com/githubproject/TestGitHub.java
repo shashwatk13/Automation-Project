@@ -7,6 +7,11 @@ public class TestGitHub {
 		System.out.println("Login successfull......");
 	}
 	
+	public void logout()
+	{
+		System.out.println("Logout successfull......");
+	}
+	
 	public static void main(String[] args) {
 		
 		System.out.println("Hi Shashwat");
