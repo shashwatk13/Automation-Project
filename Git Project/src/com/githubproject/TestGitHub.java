@@ -16,8 +16,8 @@ public class TestGitHub {
 		
 		System.out.println("Hi Shashwat");
 		System.out.println("What are you doing?");
-    System.out.println("I am doing my work");
-     System.out.println("Nothing");
+                System.out.println("I am doing my work");
+                System.out.println("Nothing");
 	}
 
 }
